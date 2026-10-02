@@ -1,0 +1,6 @@
+{
+  "name": "CampusBuddy",
+  "description": "Campus student productivity companion for tasks, calendar timetable, campus events, and study streak analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
